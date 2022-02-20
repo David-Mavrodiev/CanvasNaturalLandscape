@@ -1,4 +1,4 @@
 # CanvasNaturalLandscape
 Generate natural landscape in canvas.
 
-![Demo](/Demo.png)
+![Demo](/Demo.PNG)
